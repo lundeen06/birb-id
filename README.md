@@ -1,6 +1,6 @@
-# birb id <img src="logo/logo.png" alt="birb id Logo" width="100">
+<img src="logo/logo.png" alt="birb id Logo" width="200">
 
-
+# birb id 
 
 birb id is a smart hummingbird feeder system that:
 
